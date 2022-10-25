@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Form</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <!--My code at fontawesome.com-->
+  <script src="https://kit.fontawesome.com/f36b599105.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <main>
+    <div class="wrapper">
+      <header>Login Form</header>
+      <form action="success.html">
+        <div class="field email">
+          <div class="input-area">
+            <i class="icon fas fa-envelope"></i>
+            <input type="text" placeholder="Email Address" pattern="^[a-zA-Z0-9.!#$%&'*+/=? ^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$" required>
+          </div>
+        </div>
+        <div class="field password">
+          <div class="input-area">
+            <i class="icon fas fa-lock"></i>
+            <input type="password" placeholder="Password eg:Kuki120#" pattern="^(?=.*\d{1})(?=.*[a-z]{1})(?=.*[A-Z]{1})(?=.*[!@#$%^&*{|}?~_=+.-]{1})(?=.*[a-zA-Z0-9@$!%*?&{|}~_=+.-])(?!.*\s).{8,8}$" required>
+          </div>
+        </div>
+        <div class="pass-txt"><a href="#">Forgot password?</a></div>
+        <button type="submit" class="btn_l">Login</button>
+      </form>
+     <div class="sign-txt">Not yet member? <a href="registration.html">Signup now</a>
+     </div>
+    </div>
+ </main>
+</body>
+</html>
