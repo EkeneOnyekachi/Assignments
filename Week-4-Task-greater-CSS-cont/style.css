@@ -1,0 +1,125 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-size: 15px;
+  background: hsl(0, 0%, 95%);
+}
+
+.content__header {
+  color: hsl(0, 0%, 95%);
+  margin: 50px;
+  font-size: 20px;
+}
+
+.flex-container {
+  padding-top: 150px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  border-radius: 5px;
+}
+
+.Sedans {
+  background: hsl(31, 77%, 52%);
+  width:270px;
+}
+
+.suvs {
+  background: hsl(184, 100%, 22%);
+  width:270px;
+}
+.luxury {
+  background: hsl(179, 100%, 13%);
+  width:270px;
+}
+
+img.item {
+  margin-top: 30px;
+  margin-left: 45px;
+
+}
+
+
+.content__graph{
+  margin-left: 45px;
+  line-height: 1.4;
+}
+
+.learn__more {
+  padding-top: 60px;
+  padding-bottom: 40px;
+  margin-left: 45px;
+}
+
+.btn {
+  background: hsl(0, 0%, 95%);
+  color: hsl(31, 77%, 52%);
+  width: 130px;
+  padding: 10px;
+  border-radius: 500px;
+}
+
+.btn1 {
+  background: hsl(0, 0%, 95%);
+  color: hsl(184, 100%, 22%);
+  width: 130px;
+  padding: 10px;
+  border-radius: 500px;
+}
+
+.btn2 {
+  background: hsl(0, 0%, 95%);
+  color: hsl(179, 100%, 13%);
+  width: 130px;
+  padding: 10px;
+  border-radius: 500px;
+}
+
+.wrapper {
+  margin-left: 50px;
+  padding-top: 20px;
+  display: grid;
+  position: absolute;
+  grid-gap: 1em;
+  grid-template-areas: 
+  'a a b'
+  'c d d'
+  'c e e'
+  
+  ;
+  
+}
+
+.box_a {
+  background: #ff4500;
+  grid-area: a;
+  padding: 10em;
+  width: 420px
+
+  
+}
+
+div.box_b {
+  background: #ffA500;
+  grid-area: b;
+  padding: 10em;
+  width: 180px
+  
+}
+
+div.box_c {
+  background: #006400;
+  grid-area: c;
+  padding: 10em;
+  width: 250px
+}
+
+div.box_d {
+  background: #00BFFF;
+  grid-area: d;
+}
+
+div.box_e {
+  background: #00BFFF;
+  grid-area: e;
+}
