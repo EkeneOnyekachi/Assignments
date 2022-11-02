@@ -13,7 +13,7 @@ so this are my beginners project
 Week3
 This branch contain two folder Week 3 Tasks ( b) Using HTML and CSS and Week 3 Tasks CSS Fundamentals
 
-# Week 3 Tasks ( b) Using HTML
+## Week 3 Tasks ( b) Using HTML
 
 <img src="https://i.postimg.cc/XYHrjgRW/IMG-20221102-102719-1.jpg" alt="landing page" width="300" height="400">
   
