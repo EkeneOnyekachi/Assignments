@@ -17,5 +17,5 @@ This branch contain two folder Week 3 Tasks ( b) Using HTML and CSS and Week 3 T
 Week 3 Tasks ( b) Using HTML
 ![landing page](https://i.postimg.cc/XYHrjgRW/IMG-20221102-102719-1.jpg)
 ```
-<img src="https://i.postimg.cc/XYHrjgRW/IMG-20221102-102719-1.jpg" alt="landing page" width="500" height="600">
+<img src="https://i.postimg.cc/XYHrjgRW/IMG-20221102-102719-1.jpg" alt="landing page" width="300" height="400">
   
