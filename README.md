@@ -34,13 +34,13 @@ This branch contain a flex box and a grid project
 
 <img src="https://i.postimg.cc/CLPZSgn5/IMG-20221102-102439-1.jpg" alt="flex" width="200" height="300">
 
+<img src="https://i.postimg.cc/TYD8Yjpb/IMG-20221102-102602-1.jpg" alt="flex" width="200" height="300">
+
 ## Stack
 ```
 HTML
 CSS
 ```
-
-<img src="https://i.postimg.cc/TYD8Yjpb/IMG-20221102-102602-1.jpg" alt="flex" width="200" height="300">
 
 
   
