@@ -1,7 +1,7 @@
 # Assignments
 ```
-This repo contains my recent frontend projects with HTML and CSS.
-this repo contains 3 branches (week3, week4, week5) each branche with differnt projects
+This repo contains my recent frontend projects this repo contains 3 branches
+(week3, week4, week5) each branche with differnt projects.
 ```
 # Motivation
 ```
